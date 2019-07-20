@@ -13,3 +13,4 @@ The text is encoded by a XOR encoder using a cellular automata. Since a XOR oper
 ![GUI example](https://github.com/coloal/Sample-Encoder/blob/master/ExampleImage.png)
 
 ## Decoding example
+![GUI example](https://github.com/coloal/Sample-Encoder/blob/master/DecodingImage.png)
